@@ -1,0 +1,25 @@
+From 606220b4adcad6fad0bc29b9f9673b3b3dc3b1fa Mon Sep 17 00:00:00 2001
+From: Thamizselvan Thanikainathan <thamizselvan.thanikainathan@psiog.com>
+Date: Thu, 25 Sep 2025 22:01:21 +0530
+Subject: [PATCH] Changes added
+
+---
+ test.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/test.html b/test.html
+index fada169..7300d0a 100644
+--- a/test.html
++++ b/test.html
+@@ -2,7 +2,7 @@ ls
+ <!DOCTYPE html> 
+ <html> 
+ <head> 
+-  <title>My Project is DOne!</title> 
++  <title>My Project is DOne! Thanks!</title> 
+ </head> 
+ <body> 
+   <h1>Hello World! Welcome to this COmpany</h1> 
+-- 
+2.50.1.windows.1
+
