@@ -1,0 +1,24 @@
+From ff0eebd71cd2f12b8d921d23a02658006f35a000 Mon Sep 17 00:00:00 2001
+From: ThamizselvanPsiog <thamizselvan.thanikainathan@psiog.com>
+Date: Fri, 26 Sep 2025 15:35:26 +0530
+Subject: [PATCH] Applying patches
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index 924ab29..cd4d0bb 100644
+--- a/index.html
++++ b/index.html
+@@ -5,6 +5,7 @@
+ </head> 
+ <body> 
+   <h1>Hello World! Welcome to this COmpany</h1> 
++  <h2>Hello People!</h2>
+   <p>This is a sample project.</p> 
+   <p>This is my company</p>
+   <p>This is my Home town</p>
+-- 
+2.50.1.windows.1
+
