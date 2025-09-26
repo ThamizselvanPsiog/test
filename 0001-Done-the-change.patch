@@ -1,0 +1,35 @@
+From 0c2ad435c640b8f87d2c99b51bd8f14cda87c1fc Mon Sep 17 00:00:00 2001
+From: ThamizselvanPsiog <thamizselvan.thanikainathan@psiog.com>
+Date: Fri, 26 Sep 2025 14:43:46 +0530
+Subject: [PATCH 1/2] Done the change
+
+---
+ GitPrac                 | 1 +
+ Tour-Project            | 1 +
+ test.html => index.html | 0
+ 3 files changed, 2 insertions(+)
+ create mode 160000 GitPrac
+ create mode 160000 Tour-Project
+ rename test.html => index.html (100%)
+
+diff --git a/GitPrac b/GitPrac
+new file mode 160000
+index 0000000..07dbe8f
+--- /dev/null
++++ b/GitPrac
+@@ -0,0 +1 @@
++Subproject commit 07dbe8ff64490cd37b2d7bcaf89fcb6564826cf5
+diff --git a/Tour-Project b/Tour-Project
+new file mode 160000
+index 0000000..bcea027
+--- /dev/null
++++ b/Tour-Project
+@@ -0,0 +1 @@
++Subproject commit bcea0275fdcc1664aaf2e48bc00df00c2177583b
+diff --git a/test.html b/index.html
+similarity index 100%
+rename from test.html
+rename to index.html
+-- 
+2.50.1.windows.1
+

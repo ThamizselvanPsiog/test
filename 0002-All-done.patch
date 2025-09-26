@@ -1,0 +1,25 @@
+From c1d83a28867337f3980badf6e4f47e8323d2d5f2 Mon Sep 17 00:00:00 2001
+From: ThamizselvanPsiog <thamizselvan.thanikainathan@psiog.com>
+Date: Fri, 26 Sep 2025 15:02:01 +0530
+Subject: [PATCH 2/2] All done
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 7061e73..79a2356 100644
+--- a/index.html
++++ b/index.html
+@@ -1,7 +1,7 @@
+ <!DOCTYPE html> 
+ <html> 
+ <head> 
+-  <title>My Project</title> 
++  <title>My Project. I did it</title> 
+ </head> 
+ <body> 
+   <h1>Hello World</h1> 
+-- 
+2.50.1.windows.1
+
